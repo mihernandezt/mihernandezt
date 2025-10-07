@@ -1,5 +1,5 @@
 ## Hi there 👋
-Soy ing. en recursos naturales con interés en geomática, Python y R.
+Soy ing. en recursos naturales con interés en geomática, Python y R.  
 Me interesa integrar datos ambientales, sociales y productivos para desarrollo sustentable.
 
 - 🔭 I’m currently working on ...
